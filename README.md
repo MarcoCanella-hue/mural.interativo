@@ -1,2 +1,2 @@
-# murali.nterativo
+# mural.interativo
 Mural para divulgação de noticias pela cooperja
